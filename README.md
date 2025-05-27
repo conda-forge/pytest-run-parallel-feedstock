@@ -147,4 +147,5 @@ Feedstock Maintainers
 
 * [@andfoy](https://github.com/andfoy/)
 * [@lysnikolaou](https://github.com/lysnikolaou/)
+* [@rgommers](https://github.com/rgommers/)
 

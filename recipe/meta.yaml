@@ -1,5 +1,5 @@
 {% set name = "pytest-run-parallel" %}
-{% set version = "0.7.0" %}
+{% set version = "0.7.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/pytest_run_parallel-{{ version }}.tar.gz
-  sha256: 05088a808d26975f095739a06efc9e8ba4749c194457f9927903eaacdd1e05ce
+  sha256: ba53069f6c16147d6f5c275f5123947d1d0c31bd6ba57efc27e845a79afbe79e
 
 build:
   noarch: python
